@@ -191,7 +191,11 @@ p2{
         justify-content: center;
         align-items: center;
         margin:0rem;
-        padding: 0;
+        padding: 0rem;
+    }
+
+    .buttons a{
+        padding: .5rem;
     }
 
     .small-container{
@@ -235,6 +239,10 @@ p2{
         flex-direction: column;
         justify-content: flex-end;
         align-items: center;
+    }
+    
+    .footer-buttons a{
+        padding: .5rem;
     }
     
 }
