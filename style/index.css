@@ -7,9 +7,9 @@ body{
     background-attachment: fixed;
 }
 
-/* *{
-    border:1px solid gray;
-} */
+*{
+    border:none;
+}
 
 .container {
     display:flex;
@@ -90,19 +90,6 @@ h1{
 
 p{
    padding: 1rem; 
-}
-
-.projects{
-    height:6.25rem;
-    display:flex;
-    align-items:stretch;
-    justify-content:stretch;
-    height:32.5rem;
-}
-
-#project1, #project2, #project3, #project4{
-    width:19%;
-    margin:.5rem;
 }
 
 p2{
