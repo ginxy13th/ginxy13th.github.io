@@ -150,8 +150,8 @@ p2{
 
 .title{
     font-size: 1.5rem;
-
 }
+
 @media (max-width: 800px){
     .buttons, .footer-buttons{
         font-size: 1.5rem;
