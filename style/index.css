@@ -7,9 +7,9 @@ body{
     background-attachment: fixed;
 }
 
-*{
+/* *{
     border:1px solid gray;
-}
+} */
 
 .container {
     display:flex;
